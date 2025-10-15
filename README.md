@@ -12,6 +12,8 @@
   Built with ❤️ by <b>Yashvir Gaming</b>
 </p>
 
+<img width="999" height="662" alt="Screenshot 2025-10-15 175837" src="https://github.com/user-attachments/assets/f24f1a43-2f6d-410a-b1f9-a2472ea2f366" />
+
 <hr>
 
 <h2>🧠 Features</h2>
